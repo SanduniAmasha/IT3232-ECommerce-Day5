@@ -30,3 +30,9 @@ The project is organized into the following packages:
 3. **CRUDController**: A generic controller providing basic CRUD operations
    - Implemented as a generic class that can work with different entity types
    - Provides methods for retrieving, adding, updating, and deleting records
+
+### Course Endpoints
+
+- `GET /course/`: Returns all courses
+
+   ![Screenshot (1056)](https://github.com/SanduniAmasha/IT3232-ECommerce-Day5/blob/fdd2eab3fdbf70b219185f8d260f19bdfdaf7ef1/ss/all_courses.png)
